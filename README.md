@@ -1,2 +1,2 @@
-# https-linuxdeepin.github.io-dtk-
+linuxdeepin.github.io-dtk-
 Deepin_OS
